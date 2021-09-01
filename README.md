@@ -14,7 +14,7 @@ import { ColoredIcon } from 'colored-icon';
 
 Here are the properties it is looking for:
 
-```javascript
+```typescript
 {
 	classes?: string;
 	fabricColorName: string;
